@@ -9,3 +9,4 @@ hipo-etl.ipynb - https://github.com/a-golda/GaussGAN/issues/3
 
 poc.ipynb - https://github.com/a-golda/GaussGAN/issues/4
 
+You can find dataset [here](https://edunet.kea.su/students_datasets/Physics/Golda-3M_epgg.zip)
